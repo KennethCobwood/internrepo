@@ -6,7 +6,7 @@ int main()
 {
 
 cout << "Hello All";
-cout << "Update";
+cout << "Updated";
 
 
 return 0;
