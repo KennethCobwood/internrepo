@@ -7,7 +7,8 @@ int main()
 
 cout << "Hello All";
 cout << "Updated";
-cout << "New stage";
+cout << "Pen Testing";
+cout << "Cryptography";
 
 return 0;
 
